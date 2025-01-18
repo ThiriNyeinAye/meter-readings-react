@@ -8,7 +8,7 @@ This project is a React-based front-end application for displaying and managing 
 
 <img
   style="width: 480px; height: 100%"
-  src="https://i.ibb.co/RjS2BJ3/meter-project.gif"
+  src="https://raw.githubusercontent.com/ThiriNyeinAye/meter-readings-react/refs/heads/main/meter-project.gif"
   alt="Meta Project"
 />
 
@@ -29,8 +29,8 @@ This project is a React-based front-end application for displaying and managing 
 1.  **Clone the Repository:**
 
 ```bash
-git clone https://github.com/ThiriNyeinAye/meta-data-react.git
-cd meta-data-react
+git clone https://github.com/ThiriNyeinAye/meter-readings-react.git
+cd meter-readings-react
 ```
 
 2.  **Install Dependencies:**
